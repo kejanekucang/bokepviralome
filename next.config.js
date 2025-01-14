@@ -15,7 +15,6 @@ const nextConfig = {
             fullUrl: true,
         },
     },
-    output: 'export',
 };
 
 module.exports = nextConfig;
